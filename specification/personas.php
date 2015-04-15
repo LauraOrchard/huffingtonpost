@@ -20,9 +20,8 @@
 				shares his gaming equipment.
 				<li>Female Math Nerds, although a smaller segment of the demographic, will most likely be between the ages of 8 and 25, having metriculated from their STEM programs
 				and post-doctoral studies early. Whether she's gathering challenge questions to determine who plays first
-					in her 3D rendered Kal-toh game, or preparing for her next class agenda, she will forward this piece to herself at her .edu address with a reminder
-					to use it later. She'll also use it as an interview question to select her
-					interns. The female Math Nerd will be using a tablet exclusively.
+					in her nearly complete 3D rendered game of Kal-toh, or preparing for her next class agenda, she will forward this piece to herself at her .edu address with a reminder
+					to use it later. She'll also use it as an interview question during the intern selection process. The female Math Nerd will be using a tablet exclusively.
 				</li>
 			</ul>
 			<p>The goal for both genders when reading the Huffington Post's "Cheryl's Birthday Math Problem" is to quickly glean
@@ -35,20 +34,24 @@
 			If they decide it will be of interest to either their math friends or their students, it is imperative that all of
 			the external links and media links work seamlessly so they can re-post or forward it.<br />
 			<br />
-			A secondary goal will be to prove their superiority by posting a criticism of the challenge, the writer, the
+			A goal that both genders share will be to prove their superiority by posting a criticism of the challenge, the writer, the
 			elements of the math problem, the previous commentor, or the color of the sky. The ability to easily comment will
 			effect their willingness to wrestle it out with the other nerds.
 			</p>
 		</blockquote>
+<h3>Persona #2: Blogger</h3>
 		<blockquote>
-
-			<h3>Persona #2: Blogger</h3>
-
-			<ol>
-				<li>Age: between 12 and 55.</li>
-				<li>Goal: to easily locate and access both entertaining and informative articles that can be included as a link from their blog post.</li>
-				<li>Technology: both tablet and desktop.</li>
-			</ol>
+			<p>The Blogger will be either male of female, between the ages of 12 and 55. The Blogger's goal when selecting
+				the "Cheryl's Birthday Math Problem" to read is to find entertaining, educational, and informative articles that can be
+				included as a link from their blog post. Because they have unlimited time on their hands, they like to find
+				linkable pieces that will consume large amounts of other people's time as well. The Blogger's intent is basically
+				evil, but they too desire an easy to read page with fully functional links, and and easy method for both
+				re-posting and commenting. However, because they have a blog of their own, it is less likely they will post
+				a comment on the Huffington Post page unless they can include a link back to their WordPress site.<br />
+			<br />
+			The Blogger will be working from a tablet exclusively because couch surfing and bathing in the Starbuck's bathroom
+			necessitates a small digital footprint.
+			</p>
 		</blockquote>
 	</body>
 </html>
