@@ -13,13 +13,15 @@
 				</p>
 			<ul>
 				<li>The male Math Nerd will most likely be between 12 and 35, still living at home while attending high
-					school, college,
-					graduate school, and their doctoral studies in pure math, chemistry, engineering, and physics, with a minor
+					school, college, graduate school, and their doctoral studies in pure math, chemistry, engineering, and physics, with a minor
 					in classical scoring for piano and oboe. With a close circle of other scientists and musicians, he will
-					want to repost this piece to all of his friends to compete in solving the problem without looking at
-					the proposed solution.
+					want to re-post this piece to all of his friends, challenging them to compete in solving the problem without looking at
+					the proposed solution. The male Math Nerd will be using a mobile device or a desktop that is
 				<li>Females will most likely be between the ages of 8 and 25, having metriculated from their STEM programs
-				and post-doctoral studies early and</li>
+				and post-doctoral studies early. They will forward this piece to their johnshopkins.edu address with a reminder
+					to incorporate the challenge into her curriculum. She'll also use it as an interview question for her
+					interns.
+				</li>
 			<ol>
 				<li>Age: males between the ages of 12 and 75, and females of any age who have graduated from STEM programs.</li>
 				<li>Goals:
