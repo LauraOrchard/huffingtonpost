@@ -6,7 +6,7 @@
 	</head>
 	<header><h1>Usecases for Huffington Post</h1></header>
 	<body>
-		<h3>Math Nerd</h3>
+		<h3>Passionate Reader/Commenter</h3>
 		<blockquote>
 			<ul>
 				<li>How? From a moble phone, a Male will click through from a Tweet sent from a follower. From a tablet, a Female will open the article while
@@ -55,5 +55,8 @@
 				</ol>
 			</ul>
 		</blockquote>
+		<figure>
+			<img src="...HuffPoCommentERD.svg" alt text="An ERD diagram of the data design." />
+		</figure>
 	</body>
 </html>

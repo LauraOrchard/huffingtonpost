@@ -6,10 +6,12 @@
 	</head>
 	<title>Huffington Post Article Personas</title>
 	<body>
-<h3>Persona #1: Math Nerd</h3>
+<h3>Persona #1: Passionate Reader/Commenter</h3>
 		<blockquote>
-			<p>The Math Nerd can be either male or female, but the ages between the two genders will probably be
-				different.
+			<p>The Passionate Reader/Commenter (PRC) is someone who has been directed to a Huffington Post article because
+				of the subject matter in a particular article. They wouldn't general browse HuffPost, but when directed there
+				by a group Tweet from a like-minded associate, they will read, re-post, re-Tweet, and comment with fervor. To
+				satisfy this type of reader, HuffPost needs to have all of the social media
 				</p>
 			<ul>
 				<li>The male Math Nerd will most likely be between 12 and 35, still living at home while attending high
