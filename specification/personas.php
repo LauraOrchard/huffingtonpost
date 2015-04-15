@@ -8,7 +8,7 @@
 	<body>
 <h3>Persona #1: Math Nerd</h3>
 		<blockquote>
-			<p>The Math Nerd will can be either male or female, but the ages between the two genders will probably be
+			<p>The Math Nerd can be either male or female, but the ages between the two genders will probably be
 				different.
 				</p>
 			<ul>
@@ -17,20 +17,21 @@
 					in classical scoring for piano and oboe. With a close circle of other scientists and musicians, he will
 					want to re-post this piece to all of his friends, challenging them to compete in solving the problem without looking at
 					the proposed solution. The male Math Nerd will be using a mobile device or a desktop that is
-				<li>Females will most likely be between the ages of 8 and 25, having metriculated from their STEM programs
-				and post-doctoral studies early. They will forward this piece to their johnshopkins.edu address with a reminder
+				<li>Female Math Nerds, although a smaller segment of the demographic, will most likely be between the ages of 8 and 25, having metriculated from their STEM programs
+				and post-doctoral studies early. Whether she's gathering information for the future, or preparing
+					for her next class agenda, she will forward this piece to herself at her .edu address with a reminder
 					to incorporate the challenge into her curriculum. She'll also use it as an interview question for her
-					interns.
+					interns. The female Math Nerd will be using a tablet exclusively.
 				</li>
-			<ol>
-				<li>Age: males between the ages of 12 and 75, and females of any age who have graduated from STEM programs.</li>
-				<li>Goals:
-				<ul>
-					<li>to easily locate and access entertaining recreational articles;</li>
-					<li>to quickly locate and access timely, informative news articles.</li>
-				</ul>
-				<li>Technology: both mobile and desktop.</li>
-			</ol>
+			</ul>
+			<p>The goal for both genders when reading the Huffington Post's "Cheryl's Birthday Math Problem" is to glean
+			the article quickly to determine the level of the challenge, whether they've seen it before, and whether it
+			will be of interest to either their math friends or their students. To be able to read it quickly, comprehend it, and have all of
+			the external and media links work seamlessly will determine whether they re-post or forward it.<br />
+			<br />
+			A secondary goal will be to prove their intelligence by posting a criticism of the challenge, the writer, the
+			elements of the math problem, the previous commentor, or the color of the sky. The ability to easily comment will
+			effect their willingness to wrestle it out.</p>
 		</blockquote>
 		<blockquote>
 
