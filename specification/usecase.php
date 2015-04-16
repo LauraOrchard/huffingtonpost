@@ -57,8 +57,5 @@
 				</ol>
 			</ul>
 		</blockquote>
-		<figure>
-			<img src="...HuffPoCommentERD.svg" alt text="An ERD diagram of the data design." />
-		</figure>
 	</body>
 </html>
