@@ -22,5 +22,8 @@
 			<li>The reason the FBuniqueID is included in several spots is because a new Reader can choose to "Like a Comment" or "Comment on
 				a Comment" as their first interaction with the article.</li>
 		</ul>
+		<p>
+			<img src="huffpost_comment_ERD.svg" alt="Here is the Huffington Post Comment ERD"/>
+		</p>
 	</body>
 </html>
