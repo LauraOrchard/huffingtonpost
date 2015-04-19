@@ -2,6 +2,7 @@
 <html>
 	<head lang="en">
 		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="personas.css">
 		<title>Data Design Project - April 14, 2015 - Personas</title>
 	</head>
 	<body>
