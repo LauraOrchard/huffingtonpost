@@ -27,7 +27,7 @@
 				a Comment" as their first interaction with the article.</li>
 		</ul>
 		<p>
-			<img src="huffpost_article_comment_ERD.svg" alt="Here is the Huffington Post Comment ERD"/>
+			<img src="huffpost_erd.svg" alt="Here is the Huffington Post Comment ERD"/>
 		</p>
 	</body>
 </html>
