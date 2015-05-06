@@ -36,16 +36,12 @@
   <body>
   	<div class="container">
     	<div class="page-header">
-      	<h2>Laura O's page</h2>
+      	<h2>Laura O's page...and welcome to it!</h2>
     	</div
-		<div class="row>
-			<div class="col-md-12">
-     	 header row
-    	</div>
 
   	<div class="row">
     	<div class="col-md-4">
-      	image column
+      	<img src="../php/img/Headshot_Stoned_sq.jpg">
     	</div>
    	 <div class="col-md-8">
       	text column
