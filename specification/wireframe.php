@@ -34,41 +34,38 @@
     <title>Bootstrap 101 Template (DDC Version!)</title>
   </head>
   <body>
-  <div class="container">
-    <div class="page-header">
-      <h2>Laura O's page</h2>
-    </div
-	<div class="row>
-		<div class="col-md-12">
-      header row
-    </div>
-  </div>
+  	<div class="container">
+    	<div class="page-header">
+      	<h2>Laura O's page</h2>
+    	</div
+		<div class="row>
+			<div class="col-md-12">
+     	 header row
+    	</div>
 
-  <div class="row">
-    <div class="col-md-4">
-      image column
-    </div>
-    <div class="col-md-8">
-      text column
-    </div>
-  </div>
+  	<div class="row">
+    	<div class="col-md-4">
+      	image column
+    	</div>
+   	 <div class="col-md-8">
+      	text column
+    	</div>
+  	</div>
 
-  <div class="row">
-    <div class="flexbox">
-      row of boxes
-    </div>
-  </div>
-
-
-  <div class="page-wrap">
-    In this footer, I will talk about my feet...
-  </div>
-
-  <footer class="site-footer">
-    Sticky feet...
-  </footer>
+  	<div class="row">
+    	<div class="flexbox">
+      	row of boxes
+    	</div>
+  	</div>
 
 
-  </div>
-</body>
+  	<div class="page-wrap">
+    	In this footer, I will talk about my feet...
+  	</div>
+
+  	<footer class="site-footer">
+    	Sticky feet...
+  	</footer>
+
+	</body>
 </html>
