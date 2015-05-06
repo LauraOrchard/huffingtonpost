@@ -33,8 +33,8 @@
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <title>Bootstrap 101 Template (DDC Version!)</title>
   </head>
-  <body>
-  	<div class="container">
+  <body class="Site">
+  	<div class="container site-content">
     	<div class="page-header">
       	<h2>Laura O's page...and welcome to it!</h2>
     	</div
@@ -50,22 +50,24 @@
 
 			 <p>Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. </p>
     	</div>
+		<div class="row">
+			<div class="flexbox">
+				row of boxes
+			</div>
+		</div>
   	</div>
 
-  	<div class="row">
-    	<div class="flexbox">
-      	row of boxes
-    	</div>
-  	</div>
 
 
-  	<div class="page-wrap">
-    	In this footer, I will talk about my feet...
-  	</div>
 
-  	<footer class="site-footer">
-    	Sticky feet...
-  	</footer>
+
+  	<div class="container">
+		<footer class="site-footer">
+			<div class="row">
+				footer content here
+			</div>
+		</footer>
+	</div>
 
 	</body>
 </html>
