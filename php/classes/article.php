@@ -226,7 +226,7 @@ class Article {
 		}
 
 // create query template
-		$query = "INSERT INTO article(articleId, articleTitle, articleContent, articleDate) VALUES(:articleId, :articleTitle, :articleDate)";
+		$query = "INSERT INTO article(articleId, articleTitle, articleContent, articleDate) VALUES(:articleId, :articleTitle, :articleContent, :articleDate)";
 		$statement = $pdo->prepare($query);
 
 // bind the member variables to the place holders in the template

@@ -1,4 +1,4 @@
-<?
+<?php
 
 // First: require the AES 256 function - programmatically includes the readConfig file
 require_once("/etc/apache2/data-design/encrypted-config.php");
@@ -27,7 +27,7 @@ try {
 	// = = = = = above is all the boiler plate system configuration code to encrypt a file - below  = = = =
 
 	// insert a new Article into mySQL
-	$article = new Article(1, "Everything", "Four score and seven years ago...", "2015-12-23 12:22:24");
+	$article = new Article(null, "Everything", "Four score and seven years ago...", "2015-12-23 12:22:24");
 	$article->insert($pdo);
 
 	// change an Article and update it in mySQL
