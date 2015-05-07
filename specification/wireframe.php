@@ -38,8 +38,7 @@
 		<header>
 			<h2>Laura O's page...and welcome to it!</h2>
 		</header>
-
-		<main class="site-content"
+		<main class="site-content">
   			<div class="row">
     			<div class="col-md-4">
       			<img src="../php/img/Headshot_Stoned_sq.jpg">
@@ -51,19 +50,21 @@
 
 			 		<p>Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. </p>
     			</div>
-
+			</div>
 			<div class="row">
 				<div class="col-md-4 custom-box">
+					<p>picture</p>
 				</div>
 				<div class="col-md-4 custom-box">
+					<p>picture</p>
 				</div>
 				<div class="col-md-4 custom-box">
+					<p>picture</p>
 				</div>
 			</div>
-				</main>
+		</main>
 				<footer>
 					<p>These here are sticky feet.</p>
 				</footer>
-  		</div>
 	</body>
 </html>
