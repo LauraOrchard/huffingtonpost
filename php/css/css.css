@@ -1,16 +1,49 @@
-.flexbox {
+/***********************************************
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+*
+***********************************************/
+.site {
 	display: flex;
-	display: -webkit-flex;
-	background-color: #gggg;
+	min-height: 100vh;
+	flex-direction: column;
 }
 
-.flex-item {
-	align-content: space-around;
-	background-color: #ff00ee;
-	color: #fff;
-	flex-grow: 1;
-	font-weight: bold;
+.site-content {
+	flex: 1;
+}
+
+/***********************************************
+* Header Styles
+***********************************************/
+header {
+	background-color: rgba(118, 157, 196, 100)
+	color: rgba(128, 140, 195,100);
+	font-family: "Rock Salt", sans-serif;
 	height: 100px;
-	margin: 10px;
+	margin-bottom: 30px;
+	padding: 10px 30px;
+}
+
+/***********************************************
+* Footer Styles
+***********************************************/
+footer {
+	background-color: #000;
+	color: #fff;
+	height: 60px;
+	padding: 20px;
+
+}
+
+/***********************************************
+* Content Styles
+***********************************************/
+.custom-box {
+	margin: 20px 0;
+}
+
+.custom-box p {
+	background-color: #ddd;
 	padding: 20px;
 }
