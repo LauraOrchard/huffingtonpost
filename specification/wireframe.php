@@ -33,7 +33,7 @@
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <title>Bootstrap 101 Template (DDC Version!)</title>
   </head>
-  <body class="site">
+  <body>
   	<div class="site container">
 		<header>
 			<h2>Laura O's page...and welcome to it!</h2>
@@ -62,7 +62,7 @@
 			</div>
 				</main>
 				<footer>
->					<p>These here are stiky feet.</p>
+					<p>These here are sticky feet.</p>
 				</footer>
   		</div>
 	</body>
