@@ -31,11 +31,11 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-		<script src="startrek.js" type="application/javascript"></script>
+		<link href="startrek.css" rel="stylesheet" type="text/css">
 			<title>Star Trek Ipsum</title>
 	</head>
 	<body>
-
+	<div class = "container">
 		<a id="popUp" class="btn btn-primary" onclick="popUp();">Earl Grey...</a>
 		<br>
 		<br>
@@ -51,6 +51,6 @@
 		haven not determined if our phaser energy can generate a stable field. We could alter the photons with phase
 		discriminators.
 		</p>
-
+	</div>
 	</body>
 </html>
