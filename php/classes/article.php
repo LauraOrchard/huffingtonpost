@@ -196,6 +196,8 @@ class Article {
 		$this->articleDate = $newArticleDate;
 	}
 
+
+
 	/**
 	 * toString() magic method
 	 *
