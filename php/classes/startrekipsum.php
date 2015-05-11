@@ -35,6 +35,7 @@
 			<title>Star Trek Ipsum</title>
 	</head>
 	<body>
+
 		<a id="popUp" class="btn btn-primary" onclick="popUp();">Earl Grey...</a>
 		<br>
 		<br>
@@ -50,5 +51,6 @@
 		haven not determined if our phaser energy can generate a stable field. We could alter the photons with phase
 		discriminators.
 		</p>
+
 	</body>
 </html>
