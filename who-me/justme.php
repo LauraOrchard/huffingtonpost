@@ -15,7 +15,7 @@
 						url: "https://bootcamp-coders.cnm.edu/classmaterials/week3/mvc/controller-post.php",
 						data: {
 							profileId: "1",
-							tweetContent: "Je ne suis pas un criminel!"
+							tweetContent: "Je supposé maintenant je suis un escroc.."
 						},
 						success: function(){
 							console.log("With a little help from my friend...");
