@@ -30,8 +30,9 @@
 		<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.min.js"></script>
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
-		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 		<link href="startrek.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
 			<title>Star Trek Ipsum</title>
 	</head>
 	<body>
